@@ -8,6 +8,7 @@
 
 Tags in github:
 v1.1.0-bugfix albo v2.0.0-major_update
+zastosowanie: Do oznaczania punktów w historii (np. wersji)
 
 <!---
 SpacingKosmopan/SpacingKosmopan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

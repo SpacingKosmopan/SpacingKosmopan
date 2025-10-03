@@ -6,6 +6,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have cat Nela
 
+Tags in github:
+v1.1.0-bugfix albo v2.0.0-major_update
+
 <!---
 SpacingKosmopan/SpacingKosmopan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Kasia and brat
 - 📫 How to reach me there is no option
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have cat Nela
+- ⚡ Fun fact: I had ;-; cat Nela
 
 Tags in github:
 v1.1.0-bugfix albo v2.0.0-major_update
